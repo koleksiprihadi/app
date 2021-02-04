@@ -1,2 +1,2 @@
 * Bahasa Inggris Ke Indonesia
-test commitw
+test commitwa
